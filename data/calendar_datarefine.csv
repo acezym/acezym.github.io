@@ -1,0 +1,67 @@
+subject,location,All day event,start date,end date,start time,end time,private,Description,Category Id
+Shenzhen Open,"Shenzhen, China",Y,12/30/2018,01/05/2018,09:00:00 AM,09:00:00 PM,N,"$ 750,000",International
+ASB Classic,"Auckland, New Zealand",Y,12/31/2018,01/06/2018,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Brisbane International,"Brisbane, Australia",Y,12/31/2018,01/06/2018,09:00:00 AM,09:00:00 PM,N,"$ 1,000,000",Premier
+Hobart International,"Hobart, Australia",Y,01/07/2019,01/12/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Sydney International,"Sydney, Australia",Y,01/07/2019,01/12/2019,09:00:00 AM,09:00:00 PM,N,"$ 823,000",Premier
+Australian Open,"Melbourne, Australia",Y,01/14/2019,01/26/2019,09:00:00 AM,09:00:00 PM,N,NA,Grand Slam
+Oracle Challenger Series,"Newport Beach, CA, USA",Y,01/21/2019,01/27/2019,09:00:00 AM,09:00:00 PM,N,NA,125K
+Thailand Open,"Hua Hin, THA",Y,01/28/2019,02/03/2019,09:00:00 AM,09:00:00 PM,N,"$ 823,000",Premier
+St. Petersburg Ladies Trophy,"St. Petersburg, Russia",Y,01/28/2019,02/03/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Qatar Total Open 2019,"Doha, Qatar",Y,02/11/2019,02/16/2019,09:00:00 AM,09:00:00 PM,N,NA,Premier
+Dubai Duty Free Tennis Championships,"Dubai, UAE",Y,02/17/2019,02/23/2019,09:00:00 AM,09:00:00 PM,N,"$ 2,828,000",Premier 5
+Hungarian Ladies Open,"Budapest, Hungary",Y,02/18/2019,02/24/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Abierto Mexicano TELCEL presentado por HSBC,"Acapulco, Mexico",Y,02/25/2019,03/02/2019,09:00:00 AM,09:00:00 PM,N,NA,125K
+Oracle Challenger Series,"Indian Wells, CA, USA",Y,02/25/2019,03/03/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+BNP Paribas Open,"Indian Wells, CA, USA",Y,03/06/2019,03/17/2019,09:00:00 AM,09:00:00 PM,N,NA,Premier Mandatory
+Abierto De Zapopan,"Guadalajara, JA, MEX",Y,03/11/2019,03/16/2019,09:00:00 AM,09:00:00 PM,N,NA,125K
+Miami Open presented by Itau,"Miami, FL, USA",Y,03/19/2019,03/30/2019,09:00:00 AM,09:00:00 PM,N,NA,Premier Mandatory
+Volvo Car Open,"Charleston, SC, USA",Y,04/01/2019,04/07/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Abierto GNP Seguros,"Monterrey, Mexico",Y,04/01/2019,04/07/2019,09:00:00 AM,09:00:00 PM,N,"$ 823,000",Premier
+Samsung Open presented by Corner,"Lugano, Switzerland",Y,04/08/2019,04/14/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Claro Open Colsanitas,"Bogota, Colombia",Y,04/08/2019,04/14/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+2019 Zhengzhou Women's Tennis Open,"Zhengzhou, China",Y,04/15/2019,04/21/2019,09:00:00 AM,09:00:00 PM,N,NA,125K
+TEB BNP Paribas Istanbul Cup,"Istanbul, Turkey",Y,04/22/2019,04/28/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Porsche Tennis Grand Prix,"Stuttgart, Germany",Y,04/22/2019,04/28/2019,09:00:00 AM,09:00:00 PM,N,NA,Premier
+Grand Prix De SAR La Princesse Lalla Meryem,"Rabat, Morocco",Y,04/29/2019,05/04/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+2019 Kunming Open,"Anning, China",Y,04/29/2019,05/04/2019,09:00:00 AM,09:00:00 PM,N,NA,125K
+J&T Banka Prague Open,"Prague, Czech Republic",Y,04/29/2019,05/04/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Mutua Madrid Open,"Madrid, Spain",Y,05/04/2019,05/11/2019,09:00:00 AM,09:00:00 PM,N,NA,Premier Mandatory
+Internazionali BNL d'Italia,"Rome, Italy",Y,05/13/2019,05/19/2019,09:00:00 AM,09:00:00 PM,N,NA,Premier 5
+NÜRNBERGER VERSICHERUNGSCUP 2019,"NÜRNBERGER, Germany",Y,05/19/2019,05/25/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Internationaux de Strasbourg,"Strasbourg, France",Y,05/19/2019,05/25/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Championnats Internationaux de France,"Paris, France",Y,05/26/2019,06/08/2019,09:00:00 AM,09:00:00 PM,N,NA,Grand Slam
+Croatia Bol Open,"Bol, Croatia",Y,06/04/2019,06/09/2019,09:00:00 AM,09:00:00 PM,N,NA,125K
+Nature Valley Open,"Notttingham, Great Britain",Y,06/10/2019,06/16/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Libema Open,"'sNAHertogenbosch, Netherlands",Y,06/10/2019,06/16/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Nature Valley Classic,"Birmingham, Great Britain",Y,06/17/2019,06/23/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Mallorca Open,"Mallorca, Spain",Y,06/17/2019,06/23/2019,09:00:00 AM,09:00:00 PM,N,NA,Premier
+Nature Valley International,"Eastbourne, Great Britain",Y,06/23/2019,06/29/2019,09:00:00 AM,09:00:00 PM,N,NA,Premier
+The Championships,"Wimbledon, Great Britain",Y,07/01/2019,07/13/2019,09:00:00 AM,09:00:00 PM,N,NA,Grand Slam
+Bucharest Open,"Bucharest, Romania",Y,07/15/2019,07/21/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Ladies Championship Gstaad by IxionServices,"Gstaad, Switzerland",Y,07/15/2019,07/21/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Palermo Ladies Open,"Palermo, Italy",Y,07/22/2019,07/28/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Moscow River Cup,"Moscow, Russia",Y,07/22/2019,07/28/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Mubadala Silicon Valley Classic,"San Jose, CA, USA",Y,07/29/2019,08/04/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Citi Open,"Washington DC, USA",Y,07/29/2019,08/04/2019,09:00:00 AM,09:00:00 PM,N,NA,Premier
+Coupe Rogers présentée par Banque Nationale,"Toronto, Canada",Y,08/05/2019,08/11/2019,09:00:00 AM,09:00:00 PM,N,NA,Premier 5
+Western & Southern Open,"Cincinnati, OH, USA",Y,08/12/2019,08/18/2019,09:00:00 AM,09:00:00 PM,N,NA,Premier 5
+Connecticut Open Tennis,"New Haven, CT, United States",Y,08/18/2019,08/24/2019,09:00:00 AM,09:00:00 PM,N,NA,Premier
+2019 US OPEN TENNIS CHAMPIONSHIPS,"Flushing Meadows, NY, United States",Y,08/26/2019,09/07/2019,09:00:00 AM,09:00:00 PM,N,NA,Grand Slam
+Oracle Challenger Series,"Chicago, IL, United States",Y,09/02/2019,09/08/2019,09:00:00 AM,09:00:00 PM,N,NA,125K
+Jiangxi Open,"Nanchang, China",Y,09/09/2019,09/15/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Coupe Banque Nationale,"Quebec City, Canada",Y,09/09/2019,09/15/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+HanaNAcupid Japan Women's Open,"Hiroshima, Japan",Y,09/09/2019,09/15/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Korea Open,"Seoul, Korea",Y,09/16/2019,09/22/2019,09:00:00 AM,09:00:00 PM,N,NA,Premier
+Toray Pan Pacific Open Tennis Tournament,"Tokyo, Japan",Y,09/16/2019,09/22/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Guangzhou Open,"Guangzhou, China",Y,09/16/2019,09/21/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Wuhan Open,"Wuhan, China",Y,09/22/2019,09/28/2019,09:00:00 AM,09:00:00 PM,N,NA,Premier 5
+Tashkent Open,"Tashkent, Uzbekistan",Y,09/23/2019,09/28/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+China Open,"Beijing, China",Y,09/28/2019,10/06/2019,09:00:00 AM,09:00:00 PM,N,NA,Premier Mandatory
+Prudential Hong Kong Tennis Open,"Hong Kong, China",Y,10/07/2019,10/13/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Upper Austria Ladies Linz,"Linz, Austria",Y,10/07/2019,10/13/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+Tianjin Open,"Tianjin, China",Y,10/07/2019,10/13/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+BGL BNP Paribas Luxembourg Open,"Luxembourg, Luxembourg",Y,10/14/2019,10/20/2019,09:00:00 AM,09:00:00 PM,N,NA,Premier
+VTB Kremlin Cup,"Moscow, Russia",Y,10/14/2019,10/20/2019,09:00:00 AM,09:00:00 PM,N,"$ 250,000",International
+WTA Elite Trophy Zhuhai,"Zhuhai, China",Y,10/22/2019,10/27/2019,09:00:00 AM,09:00:00 PM,N,$,Finals
+WTA Finals Shenzhen,"Shenzhen, China",Y,10/27/2019,11/03/2019,09:00:00 AM,09:00:00 PM,N,NA,Finals
